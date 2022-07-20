@@ -1,15 +1,6 @@
-while True:
-    chicken = input("Amount of chicken in kg per diner:")
-    if chicken < 1:
-        break
-while True:
-    rice = input("Amount of rice in kg per diner:")
-    if rice < 1:
-        break
-while True:
-    chilli = input("Amount of chilli in kg per diner:")
-    if chilli < 1:
-        break
+chicken = float(input("Amount of chicken in kg per diner:"))
+rice = float(input("Amount of rice in kg per diner:"))
+chilli = float(input("Amount of chilli in kg per diner:"))
 
-Diners = input("Number of diner:")
+Diners = int(input("Number of diner:"))
 
