@@ -1,1 +1,2 @@
-3num = input("Give me 3 integers:")
+3num = input("Give me 3 integers:").spilt
+print(3num)
