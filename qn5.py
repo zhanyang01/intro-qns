@@ -1,2 +1,1 @@
-three_numbers = input("Give me 3 integers:").split
-print(three_numbers)
+num1,num2,num3 = input("Give me 3 integers:").split
