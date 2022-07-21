@@ -8,7 +8,7 @@ if temperature_type == "C" or temperature_type == "c":
     else:
         print("Error as water is no longer in liquid state")
 
-if temperature_type == "F" or temperature_type = "f":
+if temperature_type == "F" or temperature_type == "f":
     if temp > 32 and temp < 212:
         Final = (temp - 32)/1.8
         print(Final)
