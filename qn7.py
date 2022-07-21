@@ -4,4 +4,4 @@ while True:
         break
 
 for i in range(10):
-    print({} X {} = {}.format(positive_int, i + 1 , positive_int * i + 1))
+    print("{} X {} = {}".format(positive_int, i + 1 , positive_int * i + 1))
