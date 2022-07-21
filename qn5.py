@@ -1,2 +1,2 @@
-three_numbers = input("Give me 3 integers:").spilt
+three_numbers = input("Give me 3 integers:").split
 print(three_numbers)
