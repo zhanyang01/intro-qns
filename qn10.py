@@ -10,6 +10,9 @@ for i in range(8):
         positive = positive_integer/10
         i += 1
     else:
-        print(positive)
+        break
+
+print(positive)
+
 
         
