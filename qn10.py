@@ -6,12 +6,12 @@ while True:
 positive = positive_integer
 for i in range(8 ,1,-1):
     if positive >= 10:
-        positive = positive_integer/10
+        positive = positive_integer//10
         positive_integer = positive   
     else:
         break
 
-print(int(positive))
+print(positive))
 
 
         
