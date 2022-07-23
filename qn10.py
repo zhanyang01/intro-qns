@@ -12,7 +12,7 @@ for i in range(8):
     else:
         break
 
-print(positive)
+print(int(positive))
 
 
         
