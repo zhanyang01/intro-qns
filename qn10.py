@@ -4,11 +4,10 @@ while True:
         break
 
 positive = positive_integer
-i = 1
-for i in range(8):
+for i in range(8 ,1,-1):
     if positive_integer >= 10:
         positive = positive_integer/10
-        i += 1
+        
     else:
         break
 
