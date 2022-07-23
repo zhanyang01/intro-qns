@@ -8,7 +8,7 @@ i = 1
 
 while i <= 10:
     square = i**2
-    if positive_number == square
+    if positive_number == square:
         squ = True
         break
     else:
@@ -17,7 +17,7 @@ while i <= 10:
 
 if squ = True:
     print("Perfect square")
-else
+else:
     print("Not perfect square")
 
     
