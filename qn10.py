@@ -5,7 +5,7 @@ while True:
 
 positive = positive_integer
 for i in range(8 ,1,-1):
-    if positive_integer >= 10:
+    if positive >= 10:
         positive = positive_integer/10
         
     else:
