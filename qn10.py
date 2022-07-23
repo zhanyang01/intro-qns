@@ -1,6 +1,6 @@
 while True:
     positive_integer = int(input("Positive integer:"))
-    if positive_integer > 0
+    if positive_integer > 0:
         break
 
 i = 1
