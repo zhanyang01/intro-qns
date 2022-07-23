@@ -15,7 +15,7 @@ while i <= 10:
         squ = False
     i += 1
 
-if squ = True:
+if positive_number == square:
     print("Perfect square")
 else:
     print("Not perfect square")
